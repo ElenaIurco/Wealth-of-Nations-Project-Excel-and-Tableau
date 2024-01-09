@@ -37,6 +37,10 @@ Peek behind the curtains to witness the magic of data cleaning. Uncover the meti
 
 Behold the tableau of insights! Feast your eyes on captivating visualizations created with Tableau, each telling a unique story derived from the Wealth of Nations dataset.
 
+<div class='tableauPlaceholder' id='viz1704818636573' style='position: relative'><noscript><a href='#'><img alt='Life Expectancy and GDP ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment1DataViz_17023718351270&#47;LifeExpectancyandGDP&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment1DataViz_17023718351270&#47;LifeExpectancyandGDP' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment1DataViz_17023718351270&#47;LifeExpectancyandGDP&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>  
+
+[Link to my Tableau](https://public.tableau.com/views/Assignment1DataViz_17023718351270/LifeExpectancyandGDP?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Data Analysis
 
 Dive into the treasure trove of findings resulting from our analytical expedition. Gain valuable insights and perspectives, transforming data into actionable knowledge.
